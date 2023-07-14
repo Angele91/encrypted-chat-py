@@ -4,6 +4,7 @@ This is a small project I've done in order to understand a little more about NaC
 To run it, create a virtual env, install the dependencies, and run the `main.py` file, like this
 ```
 $ python -m venv env
+$ source ./env/bin/activate
 $ (env) pip install -r requirements.txt
 $ (env) python main.py
 ```
